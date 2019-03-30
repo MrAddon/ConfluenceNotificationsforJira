@@ -1,4 +1,4 @@
 # ConfluenceNotificationsforJira
 ConfluenceNotificationsforJira Open Source Jira add-on by MrAddon
 www.mraddon.blog
-![Screenshot Jira](confluencenotificationsforjira2.png)
+![Screenshot Jira](confluencenotificationsforjira3.png)
