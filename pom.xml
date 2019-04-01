@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>mraddon</groupId>
     <artifactId>confluencenotifications</artifactId>
-    <version>1.1.15</version>
+    <version>1.1.22</version>
 
     <organization>
         <name>MrAddon</name>
